@@ -23,7 +23,19 @@ RLOO
 
 ### Results
 
-All of them ended up in the [75%, 78%] range after 100 steps for pass@1.
+All of them ended up in the [75%, 78%] range after 100 steps for pass@1. DAPO reaches the highest (79.4%) but the delta is low (~3%).
 
 <img src="{{site.baseurl}}/assets/images/pass@1.png" title="Pass@1">
+
+When we look at the rewards, we see that DAPO rewards are a lot lower than the others, even though it scores the highest on the eval.
+
+<img src="{{site.baseurl}}/assets/images/reward.png" title="Mean positive reward">
+
+DAPO takes the fewest tokens per turn on the eval and SAPO the highest, so DAPO seems to be more cost effective.
+
+<img src="{{site.baseurl}}/assets/images/tokens_per_turn.png" title="Eval tokens per turn">
+
+All the policies seem to have lost entropy, reducing exploration as training progresses.
+
+<img src="{{site.baseurl}}/assets/images/policy_entropy.png" title="Policy entropy">
 
