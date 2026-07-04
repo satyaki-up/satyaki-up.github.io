@@ -25,7 +25,7 @@ For each algorithm, I used the default settings, which SkyRL had set as per the 
 
 All of them ended up in the [75%, 78%] range after 100 steps for pass@1. DAPO reaches the highest (79.4%) but the delta is low (~3%).
 
-<img src="{{site.baseurl}}/assets/images/pass@1.png" title="Pass@1">
+<img src="{{site.baseurl}}/assets/images/pass_at_1.png" title="Pass@1">
 
 When we look at the rewards, we see that DAPO rewards are a lot lower than the others, even though it scores the highest on the eval.
 
