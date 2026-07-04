@@ -13,12 +13,12 @@ All experiments were conducted on a single A100-SXM4 rented via Lambda Labs (cur
 
 For each algorithm, I used the default settings, which SkyRL had set as per the recommendations from the respective papers.
 
-GRPO: 5 samples per prompt  
-Dr GRPO: 5 samples per prompt  
-DAPO: eps 0.2 and 0.28, overlong length 512  
-SAPO: tau 1.0 and 1.05  
-Reinforce++  
-RLOO  
+1) GRPO: 5 samples per prompt [[paper](https://arxiv.org/abs/2402.03300)]  
+2) Dr GRPO: 5 samples per prompt [[paper](https://arxiv.org/abs/2503.20783)]  
+3) DAPO: eps 0.2 and 0.28, overlong length 512 [[paper](https://arxiv.org/abs/2503.14476)]  
+4) SAPO: tau 1.0 and 1.05 [[paper](https://arxiv.org/abs/2511.20347)]  
+5) Reinforce++ [[paper](https://arxiv.org/abs/2501.03262)]  
+6) RLOO [[paper](https://arxiv.org/abs/2402.14740)]  
 
 
 ### Results
