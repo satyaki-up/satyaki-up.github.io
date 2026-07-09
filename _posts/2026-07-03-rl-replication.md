@@ -25,17 +25,17 @@ For each algorithm, I used the default settings, which SkyRL had set as per the 
 
 All of them ended up in the [75%, 78%] range after 100 steps for pass@1. DAPO reaches the highest (79.4%) but the delta is low (~3%).
 
-<img src="{{site.baseurl}}/assets/images/post_1_pass_at_1.png" title="Pass@1">
+<img src="{{site.baseurl}}/assets/images/post_1/post_1_pass_at_1.png" title="Pass@1">
 
 When we look at the rewards, we see that DAPO rewards are a lot lower than the others, even though it scores the highest on the eval.
 
-<img src="{{site.baseurl}}/assets/images/post_1_reward.png" title="Mean positive reward">
+<img src="{{site.baseurl}}/assets/images/post_1/post_1_reward.png" title="Mean positive reward">
 
 DAPO takes the fewest tokens per turn on the eval and SAPO the highest, so DAPO seems to be more cost effective.
 
-<img src="{{site.baseurl}}/assets/images/post_1_tokens_per_turn.png" title="Eval tokens per turn">
+<img src="{{site.baseurl}}/assets/images/post_1/post_1_tokens_per_turn.png" title="Eval tokens per turn">
 
 All the policies seem to have lost entropy, reducing exploration as training progresses.
 
-<img src="{{site.baseurl}}/assets/images/post_1_policy_entropy.png" title="Policy entropy">
+<img src="{{site.baseurl}}/assets/images/post_1/post_1_policy_entropy.png" title="Policy entropy">
 
