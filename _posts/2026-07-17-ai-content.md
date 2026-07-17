@@ -18,7 +18,8 @@ Aleksa Gordić's [blog](https://www.aleksagordic.com/blog) [[Twitter](https://x.
 Stas Bekman's [notes](https://github.com/stas00/ml-engineering) [[Twitter](https://x.com/StasBekman)]  
 Hazy Research [blog](https://hazyresearch.stanford.edu/blog)  
 Mark Saroufim's [blog](https://www.marksaroufim.com/blog/) [[Twitter](https://x.com/marksaroufim)]  
-
+Fergus Finn's [blog](https://fergusfinn.com/) [[Twitter](https://x.com/finn_fergus)]  
+Poolside [blog](https://poolside.ai/blog)  
 
 ### Research
 
