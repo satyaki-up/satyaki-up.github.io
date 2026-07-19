@@ -43,7 +43,7 @@ Sebastian Raschka's [newsletter](https://magazine.sebastianraschka.com/) [[Twitt
 Project Marin [blog](https://openathena.ai/blog/)  
 Connectionism [blog](https://thinkingmachines.ai/blog/)  
 Tim Rocktäschel's [blog](https://rockt.ai/blog.html) [[Twitter](https://x.com/_rockt)]  
-Vlad Feinberg's [blog](https://vladfeinberg.com/) [Twitter](https://x.com/FeinbergVlad)  
+Vlad Feinberg's [blog](https://vladfeinberg.com/) [[Twitter](https://x.com/FeinbergVlad)]  
 
 ### Miscellaneous
 
