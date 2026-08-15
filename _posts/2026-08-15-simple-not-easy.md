@@ -3,7 +3,6 @@ layout: post
 title:  "Simple but not easy"
 ---
 
-Each one is a [billion dollar idea](https://billiondollarpdf.com/).
 
 * [Shaper](https://www.principles.com/principles/b10d2c65-8c9b-4c45-a4ed-46cae4687aee/) from Ray Dalio  
 * [The Algorithm](https://futureblind.com/p/atoms-are-cheap-process-is-pricey) from Elon Musk  
