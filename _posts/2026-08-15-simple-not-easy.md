@@ -27,6 +27,11 @@ title:  "Simple but not easy"
 * [Focus](https://x.com/FoundersPodcast/status/1933907497233854892?s=20) from Jimmy Iovine  
 * [Hunger](https://x.com/FoundersPodcast/status/1922259385834729826?s=20), [basics](https://x.com/FoundersPodcast/status/1765886385897021472?s=20) from Kobe Bryant  
 * [Outliers](https://x.com/thomasschulzz/status/1873235043277259032?s=20) from Tom Blomfield  
+* [No speed limit](https://sive.rs/kimo) by Derek Sivers  
+* [Grip Strength](https://x.com/jeremygiffon/status/2079280687346295184) by Jeremy Giffon  
+* [Runnin' Down a Dream](https://www.youtube.com/watch?v=xmYekD6-PZ8) by Bill Gurley  
+* [Great speeches](https://jamesclear.com/great-speeches) by James Clear  
+* [Great memos](https://sriramk.com/memos) by Sriram Krishnan  
 
 
 
