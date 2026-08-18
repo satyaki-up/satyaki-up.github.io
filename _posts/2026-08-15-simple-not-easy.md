@@ -8,7 +8,7 @@ title:  "Simple but not easy"
 * [The Algorithm](https://futureblind.com/p/atoms-are-cheap-process-is-pricey) from Elon Musk  
 * [Barrels](https://www.youtube.com/watch?v=M-lcSgueOMQ) from Keith Rabois  
 * [The Little Red Book](https://museum.parallel.ai/items/facebook-s-little-red-book) from Facebook  
-* [Fierce nerds](https://paulgraham.com/fn.html), [Conformism](https://www.paulgraham.com/conformism.html), [Independent thinking](https://paulgraham.com/think.html) and from Paul Graham  
+* [Fierce nerds](https://paulgraham.com/fn.html), [conformism](https://www.paulgraham.com/conformism.html), [independent thinking](https://paulgraham.com/think.html), [wealth](https://paulgraham.com/wealth.html) and from Paul Graham  
 * [Gamma radiation](https://www.shyamsankar.com/p/gamma-radiation-the-incredible-hulk) from Shyam Sankar  
 * [Push and shove](https://x.com/0xarslan/status/2077172939716264350?s=20), [Competitiveness](https://x.com/MVP_Mindset/status/2002016583041126783?s=20) from Tom Brady  
 * [Definite optimism](https://x.com/FoundersPodcast/status/2077422570803253624?s=20), [courage](https://www.goodreads.com/quotes/6377901-brilliant-thinking-is-rare-but-courage-is-in-even-shorter) from Peter Thiel  
@@ -32,6 +32,8 @@ title:  "Simple but not easy"
 * [Runnin' Down a Dream](https://www.youtube.com/watch?v=xmYekD6-PZ8) by Bill Gurley  
 * [Great speeches](https://jamesclear.com/great-speeches) by James Clear  
 * [Great memos](https://sriramk.com/memos) by Sriram Krishnan  
+* [Focus](https://www.youtube.com/watch?v=EKBVLzOZyLw) from Jony Ive  
+* [Fast projects](https://patrickcollison.com/fast) from Patrick Collison  
 
 
 
