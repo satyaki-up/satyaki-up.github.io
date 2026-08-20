@@ -32,6 +32,7 @@ title:  "Simple but not easy"
 * [Runnin' Down a Dream](https://www.youtube.com/watch?v=xmYekD6-PZ8) by Bill Gurley  
 * [Great speeches](https://jamesclear.com/great-speeches) by James Clear  
 * [Great memos](https://sriramk.com/memos) by Sriram Krishnan  
+* [Quadrant](https://www.linkedin.com/posts/roelofbotha_in-my-early-days-atsequoia-capital-don-ugcPost-7383724173027655680-GXbR/) by Roelof Botha  
 * [Focus](https://www.youtube.com/watch?v=EKBVLzOZyLw) from Jony Ive  
 * [Fast projects](https://patrickcollison.com/fast) from Patrick Collison  
 
