@@ -3,7 +3,7 @@ layout: post
 title:  "Rundown: Optimizers"
 ---
 
-AdamW has been the standard for more than a decade - even the beta parameters have standard initializations. But second-order methods like Muon are becoming popular (thanks to Kimi). AdamW uses an adaptive method, using the first two moments to decide the step side, and adds weight decay instead of L2 regularization. Many earlier methods used momentum (eg Polyak heavy-ball or Nesterov). Second-order methods like L-BFGS, Shampoo and SOAP are considered infeasible because of computational reasons (calculating the Hessian) - many of them approximate the Hessian somehow by adding a preconditioner before the step size. AdamW needs to store the first and second moments for each parameter which triples memory - frameworks like ZeRO shard these across GPUs. Many of these formulae are not intuitive - Nesterov allegedly said "Zero intuition, just calculation".  
+AdamW has been the standard for more than a decade - even the beta parameters have standard initializations. But second-order methods like Muon are becoming popular (thanks to Kimi). AdamW uses an adaptive method, using the first two moments to decide the step side, and adds weight decay instead of L2 regularization. Many earlier methods used momentum (eg Polyak heavy-ball or Nesterov). Second-order methods like L-BFGS, Shampoo and SOAP are considered infeasible because of computational reasons (calculating the Hessian) - many of them incporate information about the curvature of the function by somehow approximating the Hessian (eg. multiplying the gradient with a preconditioner before taking an optimization step). AdamW needs to store the first and second moments for each parameter which triples memory - frameworks like ZeRO shard these across GPUs. Many of these formulae are not intuitive - Nesterov allegedly said "zero intuition, just calculation".  
 
 
 #### References
@@ -23,5 +23,8 @@ AdamW has been the standard for more than a decade - even the beta parameters ha
 * [2013] [On the importance of initialization and momentum in deep learning](https://proceedings.mlr.press/v28/sutskever13.html)  
 * [2012] [RMSProp](https://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)  
 * [2011] [Adaptive Subgradient Methods for Online Learning and Stochastic Optimization](https://jmlr.org/papers/v12/duchi11a.html)  
+* [2010] [Deep learning via Hessian-free optimization](https://icml.cc/Conferences/2010/papers/458.pdf)  
+* [1996] [Using weight decay to optimize the generalization ability of a perceptron](https://ieeexplore.ieee.org/document/548898)  
+* [1991] [A Simple Weight Decay Can Improve Generalization](http://yaroslavvb.com/papers/krogh-simple.pdf)  
 
 
