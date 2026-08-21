@@ -58,6 +58,7 @@ Gwern [blog](https://gwern.net/about)
 Epoch AI [blog](https://epoch.ai/)  
 Zhihu Q/A [app](https://zhuanlan.zhihu.com/p/28476703733)  
 Ethan Mollick's [blog](https://www.oneusefulthing.org/) [[Twitter](https://x.com/emollick)]  
+The Voice in The Machine [blog](https://voiceinthemachine.com/2026/07/21/is-the-history-of-ai-a-technical-subject/)  
 
 
 

@@ -24,6 +24,7 @@ AdamW has been the standard for more than a decade - even the beta parameters ha
 * [2012] [RMSProp](https://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)  
 * [2011] [Adaptive Subgradient Methods for Online Learning and Stochastic Optimization](https://jmlr.org/papers/v12/duchi11a.html)  
 * [2010] [Deep learning via Hessian-free optimization](https://icml.cc/Conferences/2010/papers/458.pdf)  
+* [1998] [Efficient Backprop](https://bottou.org/papers/lecun-98x)  
 * [1996] [Using weight decay to optimize the generalization ability of a perceptron](https://ieeexplore.ieee.org/document/548898)  
 * [1991] [A Simple Weight Decay Can Improve Generalization](http://yaroslavvb.com/papers/krogh-simple.pdf)  
 
