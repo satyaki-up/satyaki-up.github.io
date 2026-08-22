@@ -3,7 +3,7 @@ layout: post
 title:  "Rundown: Normalization"
 ---
 
-The goal is generally to have zero mean and unit variance. 
+The goal is generally to have zero mean and unit variance. Most of them involve z-score, i.e. subtract the mean and then divide by variance. Both the data or the weights can be normalized. RMSNorm and QKNorm are popular nowadays.  
 
 
 #### References
