@@ -3,7 +3,7 @@ layout: post
 title:  "Rundown: Normalization"
 ---
 
-Generally, the goal is to have zero mean and unit variance. Most of them involve z-score, i.e. subtract the mean and then divide by variance. Both the data or the weights can be normalized. RMSNorm and QKNorm are popular nowadays.  
+Generally, the goal is to have zero mean and unit standard deviation. Most of them involve z-score, i.e. subtract the mean and then divide by variance. Both the data or the weights can be normalized. RMSNorm and QKNorm are popular nowadays.  
 
 
 #### References
@@ -16,10 +16,14 @@ Generally, the goal is to have zero mean and unit variance. Most of them involve
 * [2018] [How Does Batch Normalization Help Optimization?](https://arxiv.org/abs/1805.11604)  
 * [2018] [Norm matters: efficient and accurate normalization schemes in deep networks](https://arxiv.org/abs/1803.01814)  
 * [2018] [Group Normalization](https://arxiv.org/abs/1803.08494)  
+* [2018] [On the importance of single directions for generalization](https://arxiv.org/abs/1803.06959)  
+* [2018] [Understanding Batch Normalization](https://arxiv.org/abs/1806.02375)  
 * [2017] [Batch Renormalization](https://arxiv.org/abs/1702.03275)  
-* [2016] [Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks](https://arxiv.org/abs/1602.07868)  
-* [2016] [Normalization Propagation: A Parametric Technique for Removing Internal Covariate Shift in Deep Networks](https://arxiv.org/abs/1603.01431)  
+* [2016] [Weight Normalization](https://arxiv.org/abs/1602.07868)  
+* [2016] [Normalization Propagation](https://arxiv.org/abs/1603.01431)  
 * [2016] [Recurrent Batch Normalization](https://arxiv.org/abs/1603.09025)  
+* [2016] [An empirical analysis of the optimization of deep network loss surfaces](https://arxiv.org/abs/1612.04010)  
+* [2016] [Instance Normalization](https://arxiv.org/abs/1607.08022)  
 * [2015] [Batch Normalization](https://arxiv.org/abs/1502.03167)  
 * [2015] [Layer Normalization](https://arxiv.org/abs/1607.06450)  
 * [2015] [Natural Neural Networks](https://arxiv.org/abs/1507.00210)  

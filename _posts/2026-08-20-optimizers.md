@@ -14,6 +14,7 @@ AdamW has been the standard for more than a decade - even the beta parameters ha
 * [2024] [SOAP: Improving and Stabilizing Shampoo using Adam](https://arxiv.org/abs/2409.11321)  
 * [2021] [Understanding Modern Techniques in Optimization: Frank-Wolfe, Nesterov's Momentum, and Polyak's Momentum](https://arxiv.org/abs/2106.12923)  
 * [2018] [Three Mechanisms of Weight Decay Regularization](https://arxiv.org/abs/1810.12281)  
+* [2018] [Adafactor: Adaptive Learning Rates with Sublinear Memory Cost](https://arxiv.org/abs/1804.04235)  
 * [2018] [Shampoo: Preconditioned Stochastic Tensor Optimization](https://arxiv.org/abs/1802.09568)  
 * [2017] [Decoupled Weight Decay Regularization](https://arxiv.org/abs/1711.05101)  
 * [2017] [The Marginal Value of Adaptive Gradient Methods in Machine Learning](https://arxiv.org/abs/1705.08292)  

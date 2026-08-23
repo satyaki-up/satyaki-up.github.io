@@ -13,6 +13,7 @@ The most common ones are the Kaplan and Chinchilla laws, with the latter more re
 * [2026] [Scaling Laws, Carefully](https://lilianweng.github.io/posts/2026-06-24-scaling-laws/)  
 * [2026] [Prescriptive Scaling Laws for Data Constrained Training](https://arxiv.org/abs/2605.01640)  
 * [2025] [The Art of Scaling Reinforcement Learning Compute for LLMs](https://arxiv.org/abs/2510.13786)  
+* [2025] [Distillation Scaling Laws](https://arxiv.org/abs/2502.08606)  
 * [2024] [Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters](https://arxiv.org/abs/2408.03314)  
 * [2024] [Reconciling Kaplan and Chinchilla Scaling Laws](https://arxiv.org/abs/2406.12907)  
 * [2024] [Chinchilla Scaling: A replication attempt](https://arxiv.org/abs/2404.10102)  
