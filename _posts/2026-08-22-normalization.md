@@ -8,6 +8,8 @@ Generally, the goal is to have zero mean and unit standard deviation. Most of th
 
 #### References
 
+* [2026] [Why do we prefer isotropic properties?](https://kexue.fm/archives/11549)  
+* [2024] [Muon Optimizer Analysis](https://kexue.fm/archives/10592)  
 * [2024] [Geometric Interpretation of Layer Normalization and a Comparative Analysis with RMSNorm](https://arxiv.org/abs/2409.12951)  
 * [2020] [On Layer Normalization in the Transformer Architecture](https://arxiv.org/abs/2002.04745)  
 * [2020] [Query-Key Normalization for Transformers](https://arxiv.org/abs/2010.04245)  

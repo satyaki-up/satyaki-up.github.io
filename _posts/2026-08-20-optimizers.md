@@ -11,6 +11,7 @@ AdamW has been the standard for more than a decade - even the beta parameters ha
 * [2026] [Is optimization theory relevant for neural networks?](https://www.cs.ubc.ca/~schmidtm/Documents/2026_ICML_Tutorial.pdf)  
 * [2025] [Muon is Scalable for LLM Training](https://arxiv.org/abs/2502.16982)  
 * [2025] [Deriving Muon](https://jeremybernste.in/writing/deriving-muon)  
+* [2024] [Muon Optimizer Analysis](https://kexue.fm/archives/10592)  
 * [2024] [SOAP: Improving and Stabilizing Shampoo using Adam](https://arxiv.org/abs/2409.11321)  
 * [2021] [Understanding Modern Techniques in Optimization: Frank-Wolfe, Nesterov's Momentum, and Polyak's Momentum](https://arxiv.org/abs/2106.12923)  
 * [2018] [Three Mechanisms of Weight Decay Regularization](https://arxiv.org/abs/1810.12281)  
