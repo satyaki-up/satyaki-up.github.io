@@ -9,10 +9,10 @@ While at Google, I was introduced to reinforcement learning from a teammate who'
 
 My goal over the next 3 years was to figure out which direction I wanted to take my career in, and commit to that for 20 years. I knew that either one of blockchain, metaverse or AI would be the defining technology of the next decade. I learnt as much as I could about blockchain (and cryptography), worked on the Metaverse team at Meta and kept track of developments in AI. Post the ChatGPT moment, I spent a couple of years collecting as much information ([books](https://satyaki-up.github.io/2026/08/13/ai-books.html) and papers) as I could about AI, to be sure that I wanted to commit my entire career to this. I also needed to go through the math background required for research, because unlike traditional software, AI theory and practice rests on a backbone of [applied math](https://mml-book.github.io/).  
 
-Why I'd rather start my own company than work at another:
-1) It allows you to own your destiny. Total accountability (and the corresponding blame or rewards).
-2) It allows you to reach your full potential. It's personal growth disguised as a business pursuit.
-3) The best AI labs are only in the US and China, and they'll never care about the rest of the world as people from those parts (India and UK in my case, Europe in the case of a European).
-4) This company exists to train AI models and be among the best in the world at training AI models. It will never pivot to something which moves away from that raison d'etre.
+Why I'd rather start my own company than work at another:  
+1) It allows you to own your destiny. Total accountability (and the corresponding blame or rewards).  
+2) It allows you to reach your full potential. It's personal growth disguised as a business pursuit.  
+3) The best AI labs are only in the US and China, and they'll never care about the rest of the world as people from those parts (India and UK in my case, Europe in the case of a European).  
+4) This company exists to train AI models and be among the best in the world at training AI models. It will never pivot to something which moves away from that raison d'etre.  
 
 AI is the biggest technological paradigm shift of this century. It will impact almost every part of society and the changes will happen over a decade or more. The professional goal of my life is to train the best AI models in the world.  
