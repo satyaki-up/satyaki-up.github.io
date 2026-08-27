@@ -35,7 +35,9 @@ title:  "Interesting (practical) ideas"
 * [Quadrant](https://www.linkedin.com/posts/roelofbotha_in-my-early-days-atsequoia-capital-don-ugcPost-7383724173027655680-GXbR/) by Roelof Botha  
 * [Focus](https://www.youtube.com/watch?v=EKBVLzOZyLw) from Jony Ive  
 * [Fast projects](https://patrickcollison.com/fast) from Patrick Collison  
-* [Crony Beliefs](https://meltingasphalt.com/crony-beliefs/) from Kevin Simler
+* [Crony Beliefs](https://meltingasphalt.com/crony-beliefs/) from Kevin Simler  
+* [The Fable of the Dragon‑Tyrant](https://nickbostrom.com/papers/the-fable-of-the-dragon-tyrant/) by Nick Bostrom ([youtube](https://www.youtube.com/watch?v=cZYNADOHhVY&t=276s))  
+* [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/) by Astral Codex Ten
 
 
 
