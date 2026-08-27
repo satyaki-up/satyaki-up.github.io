@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Simple but not easy"
+title:  "Interesting (practical) ideas"
 ---
 
 
@@ -35,6 +35,7 @@ title:  "Simple but not easy"
 * [Quadrant](https://www.linkedin.com/posts/roelofbotha_in-my-early-days-atsequoia-capital-don-ugcPost-7383724173027655680-GXbR/) by Roelof Botha  
 * [Focus](https://www.youtube.com/watch?v=EKBVLzOZyLw) from Jony Ive  
 * [Fast projects](https://patrickcollison.com/fast) from Patrick Collison  
+* [Crony Beliefs](https://meltingasphalt.com/crony-beliefs/) from Kevin Simler
 
 
 

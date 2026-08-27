@@ -8,6 +8,7 @@ The term "distillation" was originally introduced by Hinton's paper in 2015, als
 
 #### References
 
+* [2026] [On-Policy Distillation: Promise, Pitfalls, and Prospects](https://louieworth.github.io/blog/opd_reflection/)  
 * [2026] [Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models](https://arxiv.org/abs/2601.18734)  
 * [2026] [On-Policy Context Distillation for Language Models](https://arxiv.org/abs/2602.12275)  
 * [2025] [On-Policy Distillation](https://thinkingmachines.ai/blog/on-policy-distillation/)  
