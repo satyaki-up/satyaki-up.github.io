@@ -8,6 +8,7 @@ Modern LLMs are based on the attention operation which is a set operation, i.e. 
 
 #### References
 
+* [2025] [Positional Embeddings in Transformer Models](https://iclr-blogposts.github.io/2025/blog/positional-embedding/)  
 * [2024] [CoPE](https://arxiv.org/abs/2405.18719)  
 * [2023] [YaRN](https://arxiv.org/abs/2309.00071)  
 * [2023] [The Impact of Positional Encoding on Length Generalization](https://arxiv.org/abs/2305.19466)  

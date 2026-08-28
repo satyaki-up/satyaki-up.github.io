@@ -66,3 +66,4 @@ title:  "History of software"
 * [CoRecursive](https://corecursive.com/)  
 * [That Will Never Work](https://www.amazon.co.uk/That-Will-Never-Work-Netflix/dp/1913068064)  
 * [An Annotated Startup History Bibliography](https://fuzzyblog.io/blog/startup/2022/06/23/an-startup-history-bibliography.html)  
+* [Museum of the Human Web](https://museum.parallel.ai/)  
