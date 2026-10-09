@@ -36,11 +36,12 @@ title:  "Interesting (practical) ideas"
 * [Focus](https://www.youtube.com/watch?v=EKBVLzOZyLw) from Jony Ive  
 * [Fast projects](https://patrickcollison.com/fast) from Patrick Collison  
 * [Crony Beliefs](https://meltingasphalt.com/crony-beliefs/) from Kevin Simler  
+* [Choose Good Quests](https://foundersfund.com/2023/06/choose-good-quests/) from Trae Stephens  
 * [The Fable of the Dragon‑Tyrant](https://nickbostrom.com/papers/the-fable-of-the-dragon-tyrant/) by Nick Bostrom ([youtube](https://www.youtube.com/watch?v=cZYNADOHhVY))  
 * [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/) by Astral Codex Ten  
 * [The Case for American Seriousness](https://www.thefp.com/p/the-case-for-american-seriousness)  
 * [Solitude and Leadership](https://theamericanscholar.org/solitude-and-leadership/)  
-* [The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)  
+* [The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)    
 
 
 
