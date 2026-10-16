@@ -41,7 +41,7 @@ title:  "Interesting (practical) ideas"
 * [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/) by Astral Codex Ten  
 * [The Case for American Seriousness](https://www.thefp.com/p/the-case-for-american-seriousness)  
 * [Solitude and Leadership](https://theamericanscholar.org/solitude-and-leadership/)  
-* [The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)    
+* [The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)  
 
 
 
