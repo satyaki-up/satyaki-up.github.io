@@ -7,6 +7,7 @@ title:  "Interesting (practical) ideas"
 * [Shaper](https://www.principles.com/principles/b10d2c65-8c9b-4c45-a4ed-46cae4687aee/) from Ray Dalio  
 * [The Algorithm](https://futureblind.com/p/atoms-are-cheap-process-is-pricey) from Elon Musk  
 * [Barrels](https://www.youtube.com/watch?v=M-lcSgueOMQ) from Keith Rabois  
+* [Self-guided missiles](https://x.com/rheacts/status/2114657203823227067?s=20) from Nik Storonsky  
 * [The Little Red Book](https://museum.parallel.ai/items/facebook-s-little-red-book) from Facebook  
 * [Fierce nerds](https://paulgraham.com/fn.html), [conformism](https://www.paulgraham.com/conformism.html), [independent thinking](https://paulgraham.com/think.html), [wealth](https://paulgraham.com/wealth.html) and from Paul Graham  
 * [Gamma radiation](https://www.shyamsankar.com/p/gamma-radiation-the-incredible-hulk) from Shyam Sankar  
@@ -42,6 +43,7 @@ title:  "Interesting (practical) ideas"
 * [The Case for American Seriousness](https://www.thefp.com/p/the-case-for-american-seriousness)  
 * [Solitude and Leadership](https://theamericanscholar.org/solitude-and-leadership/)  
 * [The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)  
+* [Worry](https://x.com/0xRuzy/status/2114360778153242980?s=20) from Seinfeld  
 
 
 
