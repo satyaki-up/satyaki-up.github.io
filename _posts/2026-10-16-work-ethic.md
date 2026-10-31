@@ -12,6 +12,7 @@ Examples of high work ethic.
 * [Jose Mourinho](https://www.netflix.com/title/81762073)  
 * [Michael Jordan](https://www.netflix.com/title/80203144)  
 * [Arnold Schwarzenegger](https://world.hey.com/davidsenra/arnold-the-education-of-a-bodybuilder-8bebb646)  
+* [Robert Caro](https://tv.apple.com/gb/movie/turn-every-page/umc.cmc.5s4m9phr8ywwyb7x96w8fvq0y)  
 
 
 
