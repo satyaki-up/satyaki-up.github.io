@@ -21,7 +21,7 @@ title:  "Interesting (practical) ideas"
 * [Discipline](https://x.com/FoundersPodcast/status/1889347276557971697?s=20) from Henry Ford  
 * [Mindset of excuses](https://x.com/BenWilsonTweets/status/1999207849126240694?s=20), [persistence](https://x.com/FoundersPodcast/status/1926301382803362293?s=20), [complacency](https://x.com/FoundersPodcast/status/1890036386046345559?s=20) from Rockefeller  
 * [Deep thinking](https://x.com/SJosephBurns/status/1988905267870769392?s=20) from Jim Simons  
-* [Soldiering through](https://x.com/yasminekho/status/1986788259226386768?s=20) from Ben Horowitz  
+* [Soldiering through](https://x.com/yasminekho/status/1986788259226386768?s=20), [Nobody Cares](https://a16z.com/nobody-cares/) from Ben Horowitz  
 * [Attitude vs Behaviour](https://x.com/michael_nielsen/status/1966664106976411668?s=20) from Michael Nielsen  
 * [Aliens, Jedi & Cults](https://medium.com/balance-io/aliens-jedi-%EF%B8%8F-cults-b1d52b681b8) from Richard Burton  
 * [Leadership](https://x.com/alexisohanian/status/1953904169007689935?s=20) from Alexis Ohanian  
