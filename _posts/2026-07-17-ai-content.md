@@ -45,6 +45,7 @@ Connectionism [blog](https://thinkingmachines.ai/blog/)
 Tim Rocktäschel's [blog](https://rockt.ai/blog.html) [[Twitter](https://x.com/_rockt)]  
 Vlad Feinberg's [blog](https://vladfeinberg.com/) [[Twitter](https://x.com/FeinbergVlad)]  
 Tilde Research [blog](https://tilderesearch.com/research)    
+Colfax Research [blog](https://research.colfax-intl.com/research/)    
 
 ### Miscellaneous
 
