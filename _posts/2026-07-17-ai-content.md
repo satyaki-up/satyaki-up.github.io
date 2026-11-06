@@ -3,11 +3,9 @@ layout: post
 title:  "The real AI content creators"
 ---
 
-AI is part of the zeitgeist, which means that there's a lot of AI related content online and it's hard to distinguish signal from noise. I've been privately collecting a list of high quality technical content for a few years now, and decided to share it publicly. Each link can lead you down a rabbit hole in itself, but should be a good starting point.
+The bar for getting on this list is that I would be proud if I were the author of any of these.  
 
 ### Infrastructure
-
-Mostly around distributed systems, GPUs and harnesses.
 
 Horace He's [substack](https://www.thonking.ai/) and [website](https://horace.io/brrr_intro.html) [[Twitter](https://x.com/cHHillee)]  
 Tri Dao's [blog](https://tridao.me/blog/) [[Twitter](https://x.com/tri_dao)]  
@@ -22,8 +20,6 @@ Fergus Finn's [blog](https://fergusfinn.com/) [[Twitter](https://x.com/finn_ferg
 Poolside [blog](https://poolside.ai/blog)  
 
 ### Research
-
-Core math and research, eg architectures, optimizers, algorithms, probability theory.
 
 Lillian Weng's [blog](https://lilianweng.github.io/) [[Twitter](https://x.com/lilianweng)]  
 Sander Dieleman's [blog](https://sander.ai/) [[Twitter](https://x.com/sedielem)]  
@@ -48,8 +44,6 @@ Tilde Research [blog](https://tilderesearch.com/research)
 Colfax Research [blog](https://research.colfax-intl.com/research/)    
 
 ### Miscellaneous
-
-Philosophy, economics, societal impact etc. related to AI.
 
 LessWrong [forum](https://www.lesswrong.com/)  
 Alignment [forum](https://www.alignmentforum.org/)  
