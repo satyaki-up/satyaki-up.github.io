@@ -3,7 +3,7 @@ layout: post
 title:  "The real AI content creators"
 ---
 
-The bar for getting on this list is that I would be proud if I were the author of any of these.  
+Separating the wheat from the chaff.  
 
 ### Infrastructure
 
