@@ -23,7 +23,7 @@ I'll revisit my predictions in 10 years.
 
 **Are AI models going to be commoditized?** No, different AI models will be better at different things and there'll be a lot more variety in the market. AI in 2026 is like the Internet in 1996.  
 
-**How much will AI labs be worth?** All technological revolutions start will a bubble and there's a market correction. Over the long term (10-15 years), every successful AI lab will be worth 1T.  
+**How much will AI labs be worth?** All technological revolutions start will a bubble and then there's a market correction. Over the long term (10-15 years), every successful AI lab will be worth atleast 1T.  
 
 
 
