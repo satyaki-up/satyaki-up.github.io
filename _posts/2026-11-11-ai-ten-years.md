@@ -17,7 +17,7 @@ I'll revisit my predictions in 10 years.
 
 **Will AI cause mass unemployment?** No, AI will automate many jobs but it'll be over years or even decades, mainly because of frictions that're naturally present in society. Many new categories of jobs will be created.  
 
-**How big is the market for AI?** I agree with Anthropic's claim that the market is the same as all white collar work and most of GDP, so atleast 40T as they mention in their S-1.  
+**How big is the market for AI?** I agree with Anthropic's claim that the TAM is the market of all white collar work, so atleast 40T as they mention in their S-1. It's likely that the TAM will increase further because historically, technological paradigm shifts tended to create new markets.  
 
 **Is the AI model provider market a winner-take-all market?** No, I don't believe that because it's unlikely that the biggest market in history will be dominated by one player. Society itself won't allow it.  
 
