@@ -44,6 +44,7 @@ title:  "Interesting (practical) ideas"
 * [Solitude and Leadership](https://theamericanscholar.org/solitude-and-leadership/)  
 * [The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)  
 * [Worry](https://x.com/0xRuzy/status/2114360778153242980?s=20) from Seinfeld  
+* [Pain and Suffering](https://www.youtube.com/watch?v=vOvQSqY7Jgc) from Jensen Huang
 
 
 
