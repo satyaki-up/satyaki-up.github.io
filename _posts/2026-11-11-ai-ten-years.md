@@ -7,9 +7,11 @@ It's the week before Anthropic is set to go public, which'll be the first major 
 
 I'll revisit my predictions in 10 years.  
 
-**Do I believe in existential risk from AI?** No, I don't believe in x-risk and all the arguments I've seen for it, make jumps of logical reasoning that are tenuous. My p(doom) is close to 0.  
+**Do I believe in existential risk from AI?** No, I don't believe in x-risk (i.e. AI can kill us all) and all the arguments I've seen for it, make jumps of logical reasoning that are tenuous. My p(doom) is close to 0.  
 
 **Will there be a Singularity?** By that, I mean a single day after which the state of the world is different from any time before (similar to the first atomic bomb). No, I don't think so - I think change from AI will be gradual and will take years.  
+
+**Is AI dangerous?** Yes, I think there should be a coordinated slowdown in rollout, because most societal infrastructure is not ready for it.  
 
 **Will AI completely automate software engineering?** Yes, I think so but it'll happen over years.  
 
