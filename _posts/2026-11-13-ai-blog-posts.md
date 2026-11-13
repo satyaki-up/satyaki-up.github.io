@@ -14,4 +14,5 @@ This is a collection of interesting posts related to AI research that I've seen 
 * [Approximating KL Divergence](http://joschu.net/blog/kl-approx.html)  
 * [Demystifying RL Collapse](https://yingru.notion.site/When-Speed-Kills-Stability-Demystifying-RL-Collapse-from-the-Training-Inference-Mismatch-271211a558b7808d8b12d403fd15edda)  
 * [Mitigate Silent Expert Death in Ultra-Sparse MoE](https://alltoall.notion.site/save-lower-layer-moe-experts-llal)  
+* [Attention](https://x.com/karpathy/status/1864023344435380613)  
 
