@@ -15,4 +15,6 @@ This is a collection of interesting posts related to AI research that I've seen 
 * [Demystifying RL Collapse](https://yingru.notion.site/When-Speed-Kills-Stability-Demystifying-RL-Collapse-from-the-Training-Inference-Mismatch-271211a558b7808d8b12d403fd15edda)  
 * [Mitigate Silent Expert Death in Ultra-Sparse MoE](https://alltoall.notion.site/save-lower-layer-moe-experts-llal)  
 * [Attention](https://x.com/karpathy/status/1864023344435380613)  
+* [Tensor Considered Harmful](https://nlp.seas.harvard.edu/NamedTensor)  
+* [Shazeer Notation](https://medium.com/@NoamShazeer/shape-suffixes-good-coding-style-f836e72e24fd)  
 
