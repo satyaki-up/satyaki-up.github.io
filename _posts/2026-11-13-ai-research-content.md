@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "AI Research blog posts"
+title:  "Misc. AI research content"
 ---
 
-This is a collection of interesting posts related to AI research that I've seen online. It only includes specific posts - entire blogs are collected [here](https://satyaki-up.github.io/2026/07/17/ai-content.html).  
+This is a collection of interesting content related to AI research that I've seen online.  
 
 
 * [Async GRPO in the Wild](https://yumoxu.notion.site/async-grpo-in-the-wild)  
@@ -17,4 +17,12 @@ This is a collection of interesting posts related to AI research that I've seen 
 * [Attention](https://x.com/karpathy/status/1864023344435380613)  
 * [Tensor Considered Harmful](https://nlp.seas.harvard.edu/NamedTensor)  
 * [Shazeer Notation](https://medium.com/@NoamShazeer/shape-suffixes-good-coding-style-f836e72e24fd)  
+* [Transformer Inference Arithmetic](https://kipp.ly/p/transformer-inference-arithmetic)  
+* [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)  
+* [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/)  
+* [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)  
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)  
+* [How to Scale Your Model](https://jax-ml.github.io/scaling-book/)  
+* [Building a distributed training framework from first principles](https://www.youtube.com/watch?v=XoGvCBRnwLs)  
+* [GPU MODE](https://www.youtube.com/@GPUMODE)  
 

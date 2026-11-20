@@ -5,6 +5,7 @@ title:  "Diagnostics for loss spikes"
 
 
 * [2026] [Stanford's Deep Learning Alchemy](https://deep-learning-alchemy.github.io/): Most of the course is about training stability, and how to transfer hyperparams (LR, batch size) across scale.  
+* [2025] [ZClip: Adaptive Spike Mitigation](https://arxiv.org/abs/2504.02507):
 * [2025] [Marin 32B](https://marin.community/blog/2025/10/28/marin-32b-retro/): [Loss spike](https://github.com/marin-community/marin/issues/1368) mitigated by QK-norm. 8B was stable without it. [Tweet](https://x.com/dlwh/status/1938282075326710146). WSD runs could be spikier than cosine. Adam update norm spikes precede loss spikes, but not every update norm spike leads to a loss spike. Gradient norms typically spike after update norm spikes. Skipping steps with extremely large gradient norms, does not reduce time to recovery. Update norm spikes are of higher magnitude on lower layers. When update norm spikes occur, the second-order momentum remains mostly unchanged, but the first-order momentum increases by 2×. AdamC during decay.  
 * [2025] [Llama-Nemotron](https://arxiv.org/abs/2505.00949): Section 4.2. Consistently high learning rates caused training instability. Required training resumption with reinitialized optimizer states.  
 * [2024] [2 Olmo 2 Furious](https://arxiv.org/abs/2501.00656): QK-norm (section 3.3.2). Normalize the key and query projections with RMSNorm before calculating attention. This avoids attention logits being too large.  
