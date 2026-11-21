@@ -1,13 +1,10 @@
 ---
 layout: post
-title:  "Rundown: Position encodings"
+title:  "Compendium: Positional encodings"
 ---
 
-Modern LLMs are based on the attention operation which is a set operation, i.e. it has no concept of order. Position encodings add the concept of order, so the same word in different places in a sentence are not treated equivalently. The original Transformers paper used sinusoidal embeddings which are now deprecated - RoPE is the most popular. In modern LLMs, the attention block is also not standard full dot product but alternating between quadratic and linear - often both these have different position encodings or none (NoPE). Position encodings become particularly relevant for long-context training - if the model is trained on a smaller context length, it generally underperforms on longer contexts during inference.   
-
-
-#### References
-
+* [2026] [Positional Encodings and Group Theory](https://www.youtube.com/watch?v=k86eUj4hgdc)  
+* [2026] [Understanding Positional Embeddings in Modern LLMs](https://magazine.sebastianraschka.com/p/understanding-positional-embeddings)  
 * [2025] [Positional Embeddings in Transformer Models](https://iclr-blogposts.github.io/2025/blog/positional-embedding/)  
 * [2024] [CoPE](https://arxiv.org/abs/2405.18719)  
 * [2023] [YaRN](https://arxiv.org/abs/2309.00071)  

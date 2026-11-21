@@ -1,12 +1,8 @@
 ---
 layout: post
-title:  "Rundown: Distillation"
+title:  "Compendium: Distillation"
 ---
 
-The term "distillation" was originally introduced by Hinton's paper in 2015, also coining "dark knowledge", i.e. every neural network has some hidden knowledge that can be extracted into a smaller one. There's been a long history of cutting down big networks to smaller ones (compression, sparsity, optimal brain damage) but distillation was one of the first to use the logits of the teacher as a soft target to run gradient descent on the student. Nowadays, the meaning of distillation has changed. Just generating outputs from a bigger teacher and then supervised learning on the student also counts - known as imitation learning or behaviour cloning. But the teacher is off-policy, so it has a different distribution than the student. To fix that, on-policy distillation uses traces from the student and gets the teacher to score them (i.e. retrieve teacher logits) and this plays nicely with RL trajectory generation.  
-
-
-#### References
 
 * [2026] [On-Policy Distillation: Promise, Pitfalls, and Prospects](https://louieworth.github.io/blog/opd_reflection/)  
 * [2026] [Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models](https://arxiv.org/abs/2601.18734)  

@@ -16,5 +16,6 @@ title:  "Diagnosing loss spikes"
 * [2022] [Bloom](https://github.com/bigscience-workshop/bigscience/blob/master/train/tr11-176B-ml/chronicles.md#2022-04-12-first-lm-loss-spike): Many gradnorm spikes but one loss spike - recovered on its own.  
 * [2022] [Megatron-Turning NLG](https://arxiv.org/abs/2201.11990): Higher learning rate increases the model instability. We also observed that using higher variance for weight initialization fails to converge. We also reduced β2 from its standard value of 0.99 to reduce spikes in the training loss.  
 * [2022] [PaLM](https://arxiv.org/abs/2204.02311): Section 5.1. Re-started training from a checkpoint roughly 100 steps before the spike started, and skipped roughly 200–500 data batches, which cover the batches that were seen before and during the spike. Implies that spikes only occur due to the combination of specific data batches with a particular model parameter state.  
+* [2021] [Gopher](https://arxiv.org/abs/2112.11446): Section C.1. Adafactor caused instability.  
 * [2021] [Cogview](https://arxiv.org/abs/2105.13290): Gradients of embeddings higher than other layers, so scale it by 0.1 and detach (1-0.1). Sandwich-LN.  
 * [2019] [Transformers without tears](https://arxiv.org/abs/1910.05895): Pre-norm instead of post-norm. ScaleNorm instead of LayerNorm. Reduce weight init.  

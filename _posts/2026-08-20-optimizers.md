@@ -1,12 +1,8 @@
 ---
 layout: post
-title:  "Rundown: Optimizers"
+title:  "Compendium: Optimizers"
 ---
 
-AdamW has been the standard for more than a decade - even the beta parameters have standard initializations. But second-order methods like Muon are becoming popular (thanks to Kimi). AdamW uses an adaptive method, using the first two moments to decide the step side, and adds weight decay instead of L2 regularization. Many earlier methods used momentum (eg Polyak heavy-ball or Nesterov). Second-order methods like L-BFGS, Shampoo and SOAP are considered infeasible because of computational reasons (calculating the Hessian) - many of them incporate information about the curvature of the function by somehow approximating the Hessian (eg. multiplying the gradient with a preconditioner before taking an optimization step). AdamW needs to store the first and second moments for each parameter which triples memory - frameworks like ZeRO shard these across GPUs. Many of these formulae are not intuitive - Nesterov allegedly said "zero intuition, just calculation".  
-
-
-#### References
 
 * [2026] [Is optimization theory relevant for neural networks?](https://www.cs.ubc.ca/~schmidtm/Documents/2026_ICML_Tutorial.pdf)  
 * [2025] [Muon is Scalable for LLM Training](https://arxiv.org/abs/2502.16982)  

@@ -1,12 +1,8 @@
 ---
 layout: post
-title:  "Rundown: Normalization"
+title:  "Compendium: Normalization"
 ---
 
-Generally, the goal is to have zero mean and unit standard deviation. Most of them involve z-score, i.e. subtract the mean and then divide by variance. Both the data or the weights can be normalized. RMSNorm and QKNorm are popular nowadays.  
-
-
-#### References
 
 * [2026] [Why do we prefer isotropic properties?](https://kexue.fm/archives/11549)  
 * [2024] [Muon Optimizer Analysis](https://kexue.fm/archives/10592)  
