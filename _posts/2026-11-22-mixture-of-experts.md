@@ -5,6 +5,7 @@ title:  "Compendium: Mixture-of-Experts"
 
 * [2026] [The Ultimate MoE Training Handbook](https://huggingface.co/spaces/huggingface/moe-blogpost)  
 * [2025] [Scaling Laws for Efficient Mixture-of-Experts](https://arxiv.org/abs/2507.17702)  
+* [2025] [Parameters vs FLOPs: Scaling Laws for Optimal Sparsity](https://arxiv.org/abs/2501.12370)  
 * [2024] [Auxiliary-Loss-Free Load Balancing](https://arxiv.org/abs/2408.15664)  
 * [2024] [DeepSeekMoE](https://arxiv.org/abs/2401.06066)  
 * [2024] [Scaling Laws for Fine-Grained Mixture of Experts](https://arxiv.org/abs/2402.07871)  
