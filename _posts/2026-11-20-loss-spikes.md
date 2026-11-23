@@ -14,7 +14,8 @@ title:  "Diagnosing loss spikes"
 * [2025] [Llama-Nemotron](https://arxiv.org/abs/2505.00949): Section 4.2. Consistently high learning rates caused training instability. Required training resumption with reinitialized optimizer states.  
 * [2024] [2 Olmo 2 Furious](https://arxiv.org/abs/2501.00656): QK-norm (section 3.3.2). Normalize the key and query projections with RMSNorm before calculating attention. This avoids attention logits being too large.  
 * [2024] [DBRX](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm): QKV clipping ([tweet](https://x.com/zeuxcg/status/1780765558558097440)).  
-* [2023] [Baichuan 2](https://arxiv.org/abs/2309.10305): Max-z loss penalizes the square of the maximum logit value.  
+* [2023] [Small-scale proxies for large-scale Transformer training instabilities](https://arxiv.org/abs/2309.14322): Attention logit growth and divergence of output logits. QK-layernorm and z-loss respectively.  
+* [2023] [Baichuan 2](https://arxiv.org/abs/2309.10305): Max-z loss penalizes the square of the maximum logit value. NormHead for output embeddings.  
 * [2023] [Scaling Vision Transformers to 22B](https://arxiv.org/abs/2302.05442): 8B diverged due to huge attention logits. Fixed by QK-norm (LayerNorm), parallel layers and no biases. LR decreased with scale.  
 * [2023] [Spike No More](https://arxiv.org/abs/2312.16903): 1.5B. Init weights to small values and scale embedding by sqrt(d) or add LayerNorm to embedding layer to reduce variance.  
 * [2022] [GLM-130B](https://arxiv.org/abs/2210.02414): DeepNorm Post-LN (others like Sandwich-LN didn't work). Embedding Layer Gradient Shrink - spike caused by embedding gradnorm.  
@@ -23,4 +24,5 @@ title:  "Diagnosing loss spikes"
 * [2022] [PaLM](https://arxiv.org/abs/2204.02311): Section 5.1. Re-started training from a checkpoint roughly 100 steps before the spike started, and skipped roughly 200–500 data batches, which cover the batches that were seen before and during the spike. Implies that spikes only occur due to the combination of specific data batches with a particular model parameter state. Also a z-loss to prevent logits growing too large.  
 * [2021] [Gopher](https://arxiv.org/abs/2112.11446): Section C.1. Adafactor caused instability.  
 * [2021] [Cogview](https://arxiv.org/abs/2105.13290): Gradients of embeddings higher than other layers, so scale it by 0.1 and detach (1-0.1). Sandwich-LN. PB-Relax (Precision-Bottleneck Relaxation) to prevent overflow.  
+* [2020] [Effects of Parameter Norm Growth During Transformer Training](https://arxiv.org/abs/2010.09697): Parameter norms increase while training.  
 * [2019] [Transformers without tears](https://arxiv.org/abs/1910.05895): Pre-norm instead of post-norm. ScaleNorm instead of LayerNorm. Reduce weight init.  
