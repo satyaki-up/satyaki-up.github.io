@@ -28,4 +28,5 @@ title:  "Diagnosing loss spikes"
 * [2021] [Gopher](https://arxiv.org/abs/2112.11446): Section C.1. Adafactor caused instability.  
 * [2021] [Cogview](https://arxiv.org/abs/2105.13290): Gradients of embeddings higher than other layers, so scale it by 0.1 and detach (1-0.1). Sandwich-LN. PB-Relax (Precision-Bottleneck Relaxation) to prevent overflow.  
 * [2020] [Effects of Parameter Norm Growth During Transformer Training](https://arxiv.org/abs/2010.09697): Parameter norms increase while training.  
+* [2020] [Understanding the Difficulty of Training Transformers](https://arxiv.org/abs/2004.08249): Amplification effect of gradnorm via residual layers. Fixed by better init.  
 * [2019] [Transformers without tears](https://arxiv.org/abs/1910.05895): Pre-norm instead of post-norm. ScaleNorm instead of LayerNorm. Reduce weight init.  
