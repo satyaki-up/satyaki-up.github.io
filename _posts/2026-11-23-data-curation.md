@@ -9,6 +9,7 @@ title:  "Compendium: Data curation"
 * [2025] [Common Corpus](https://arxiv.org/abs/2506.01732)  
 * [2025] [Common Pile v0.1](https://arxiv.org/abs/2506.05209)  
 * [2025] [Ultra-FineWeb](https://arxiv.org/abs/2505.05427)  
+* [2024] [Zyda](https://arxiv.org/abs/2406.01981)  
 * [2024] [FineWeb](https://huggingfacefw-blogpost-fineweb-v1.static.hf.space/index.html)  
 * [2024] [Nemotron-CC](https://arxiv.org/abs/2412.02595)  
 * [2024] [RedPajama-Data-v2](https://www.together.ai/blog/redpajama-data-v2)  
